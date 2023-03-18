@@ -14,7 +14,7 @@ Lembre-se de escolher um login e senha seguros, para garantir a proteção das i
 
 A tela de cadastro de novo usuário é semelhante à imagem abaixo:
 
-![Cadastro de Novo Usuário](https://dl22.com.br/esyspark/img/cad_novo_usuario.png)
+![Cadastro de Novo Usuário](./cadastro_de_novo_usuario/cadastro_de_novo_usuario-01.png)
 
 Para criar um novo perfil de usuário, você pode acessar o tutorial disponível no link: [Cadastro de Novo Perfil de Usuário](https://dl22.com.br/esyspark/cad_novo_perfil).
 
